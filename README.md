@@ -1,4 +1,4 @@
-# 🎇 Diwali Sales Analysis
+# 🪔 Diwali Sales Analysis
 
 ## 📌 Objective
 Analyze customer purchasing behavior during Diwali to identify high-value customers and top-selling product categories.
